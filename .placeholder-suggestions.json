@@ -1,0 +1,21 @@
+{
+  "BewerbungenDialog.tsx": {
+    "vorname": "z. B. Max",
+    "nachname": "z. B. Müller",
+    "email": "z. B. max@beispiel.de",
+    "telefon": "z. B. +49 30 123456",
+    "stelle": "Gewünschte Stelle",
+    "eingangsdatum": "Wann eingegangen?",
+    "phase": "z. B. Eingegangen, Screening",
+    "quelle": "Woher kommt die Bewerbung?",
+    "notizen": "Besonderheiten, Erster Eindruck, Nächste Schritte..."
+  },
+  "StellenDialog.tsx": {
+    "bezeichnung": "z. B. Senior Developer",
+    "abteilung": "z. B. IT",
+    "standort": "z. B. Berlin",
+    "beschaeftigungsart": "z. B. Vollzeit, Teilzeit",
+    "status": "Verfügbarkeit der Stelle",
+    "beschreibung": "Aufgaben, Anforderungen, Benefits..."
+  }
+}

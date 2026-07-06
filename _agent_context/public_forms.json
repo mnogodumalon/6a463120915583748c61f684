@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "bewerbungen",
+      "app_id": "6a46310b1bb742915f83d735",
+      "path": "/rest/apps/6a46310b1bb742915f83d735/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "telefon",
+        "eingangsdatum",
+        "phase",
+        "quelle",
+        "notizen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Bewerbungen — Formular"
+    },
+    {
+      "entity": "stellen",
+      "app_id": "6a463108ce8058178b7c0823",
+      "path": "/rest/apps/6a463108ce8058178b7c0823/records",
+      "allowed_fields": [
+        "bezeichnung",
+        "abteilung",
+        "standort",
+        "beschaeftigungsart",
+        "status",
+        "beschreibung"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Stellen — Formular"
+    }
+  ]
+}

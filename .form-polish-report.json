@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "Bewerbungen": {
+      "placeholders_set": 9,
+      "defaults_keys": ["eingangsdatum", "phase"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten und Prozessrouting — keine berechenbaren Größen. Keine numerischen Felder außer im applookup zur Stelle. Kein Preis, keine Dauer, keine Mengen. Daher kein computed-Block nötig."
+    },
+    "Stellen": {
+      "placeholders_set": 6,
+      "defaults_keys": ["status"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten der offenen Positionen — keine zeitlichen oder finanziellen Berechnungen. Kein computed-Block nötig."
+    }
+  }
+}

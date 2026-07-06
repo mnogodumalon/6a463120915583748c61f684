@@ -1,0 +1,3 @@
+- Bewerbungen (bewerbungen): vorname[string/text], nachname[string/text], email[string/email], telefon[string/tel], stelle[applookup/select], eingangsdatum[date/date], phase[lookup/select], quelle[lookup/select], bewerbungsunterlagen[file], notizen[string/textarea]
+  → stelle links to app_id 6a463108ce8058178b7c0823
+- Stellen (stellen): bezeichnung[string/text], abteilung[string/text], standort[string/text], beschaeftigungsart[lookup/select], status[lookup/radio], beschreibung[string/textarea]
